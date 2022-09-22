@@ -1,0 +1,14 @@
+# vscode
+/.vscode/
+
+# large data
+data/dblp_article.xml
+
+# clion
+/.idea/
+.clang-format
+/cmake-build-debug/
+
+# cmake生成文件
+/debug/
+/release/
